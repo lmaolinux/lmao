@@ -1,13 +1,15 @@
+<p align="center">
+  <img src="lmao.svg" width="200" alt="lmao" />
+</p>
+
 # ROADMAP
 
-Our upstream is Secureblue, a bootc based operating system that follows Fedora Atomic.
+We track security posture, hardening changes, and kernel updates across Secureblue and upstream Fedora. When necessary, we may ship security improvements ahead of our upstreams
 
->[!Note]
->According to Secureblue's statement, it considers user privacy out of focus even though privacy is a subset of security. That's the reason privacy is a factor of interest for us.
 
 >[!important]
-> To minimize the damage, the operating system has to be built with permanent enforcement of SELinux as setting it to permissive would be what a malware wants to do most of the times.
+> * To minimize the damage, operating systems has to be built with permanent enforcement of SELinux as setting it to permissive would be what a malware wants to do most of the times.
+> * Privacy is a subset of security. compromised privacy ultimately leads to exploitation.
 
-> ### Included / To Be Included
-> * SELinux enforced with no permissive fallback
-> * Delay based verificaton for newly mounted disks
+## CPM - Cross Package Manager
+CPM routes Danified YUM (DNF) and Advanced Package Tool (APT) through seperate container.
