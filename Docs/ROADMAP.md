@@ -1,6 +1,6 @@
 # ROADMAP
 
-Our upstream is Secureblue, a bootc based security first operating system whose upstream is Fedora Atomic.
+Our upstream is Secureblue, a bootc based operating system that follows Fedora Atomic.
 
 >[!Note]
 >According to Secureblue's statement, it considers user privacy out of focus even though privacy is a subset of security. That's the reason privacy is a factor of interest for us.
