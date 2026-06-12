@@ -2,7 +2,7 @@
   <img src="lmao.svg" width="200" alt="lmao" />
 </p>
 
-# ARCHITECTURE - LMAO
+# Architecture - Lmao Linux
 
 We track security posture, hardening changes, and kernel updates across Secureblue and upstream Fedora. 
 If a fix is critical, we may apply it directly while working with upstreams.
