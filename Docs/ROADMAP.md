@@ -12,4 +12,4 @@ We track security posture, hardening changes, and kernel updates across Securebl
 > * Privacy is a subset of security. compromised privacy ultimately leads to exploitation.
 
 ## CCP - Cross Compat Packager
-CPM, Cross Compat Packager routes Danified YUM (DNF) and Advanced Package Tool (APT) through seperate container. It gives the security of an atomic os, tidiness, and a way to remove all packages in a single command along with vast range of software compatibility.
+CPM, Cross Compat Packager routes Danified YUM (DNF) and Advanced Package Tool (APT) through seperate containers. It gives the security of an atomic operating system, tidiness of a containerized workflow, and a way to remove all packages in a single command along with vast range of software compatibility.
