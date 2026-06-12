@@ -1,4 +1,8 @@
-# lmao
+<p align="center">
+<img src="lmao.svg" width=200 alt="Lmao Linux"/>
+</p>
+
+# Lmao Linux
 A hardened security focused operating system with enforcement of least privilege and locked-down access.
 
 
