@@ -3,7 +3,7 @@
 </p>
 
 # Lmao Linux
-A hardened security focused operating system with the enforcement of least privilege and locked-down access.
+A hardened operating system with the enforcement of least privilege and locked-down access.
 
 
 > [!important]
@@ -11,5 +11,5 @@ A hardened security focused operating system with the enforcement of least privi
 > > The Lmao Team.
 
 There's few uniqueness only this operating system has. They are
-> Permanent enforcement of SELinux with custom hardenings at runtime
-> CPM makes this atomic operating system a mutable like for seamless user experience
+* Permanent enforcement of SELinux with custom hardenings that can never be disabled.
+* CPM, Containarized Package Manager to make this atomic operating system a mutable like for seamless user experience.
